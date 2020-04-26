@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/paginated-movie-app-movisualize/static/css/main.fc5d5ffa.chunk.css",
-    "main.js": "/paginated-movie-app-movisualize/static/js/main.4e4c344f.chunk.js",
-    "main.js.map": "/paginated-movie-app-movisualize/static/js/main.4e4c344f.chunk.js.map",
+    "main.js": "/paginated-movie-app-movisualize/static/js/main.6cc43ddf.chunk.js",
+    "main.js.map": "/paginated-movie-app-movisualize/static/js/main.6cc43ddf.chunk.js.map",
     "runtime-main.js": "/paginated-movie-app-movisualize/static/js/runtime-main.34756044.js",
     "runtime-main.js.map": "/paginated-movie-app-movisualize/static/js/runtime-main.34756044.js.map",
     "static/js/2.441a81c8.chunk.js": "/paginated-movie-app-movisualize/static/js/2.441a81c8.chunk.js",
     "static/js/2.441a81c8.chunk.js.map": "/paginated-movie-app-movisualize/static/js/2.441a81c8.chunk.js.map",
     "index.html": "/paginated-movie-app-movisualize/index.html",
-    "precache-manifest.a535cee4f3679b4c62591d27c4f43c7e.js": "/paginated-movie-app-movisualize/precache-manifest.a535cee4f3679b4c62591d27c4f43c7e.js",
+    "precache-manifest.77eab5f9bd7549f7265c2ab73e93413b.js": "/paginated-movie-app-movisualize/precache-manifest.77eab5f9bd7549f7265c2ab73e93413b.js",
     "service-worker.js": "/paginated-movie-app-movisualize/service-worker.js",
     "static/css/main.fc5d5ffa.chunk.css.map": "/paginated-movie-app-movisualize/static/css/main.fc5d5ffa.chunk.css.map",
     "static/js/2.441a81c8.chunk.js.LICENSE": "/paginated-movie-app-movisualize/static/js/2.441a81c8.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34756044.js",
     "static/js/2.441a81c8.chunk.js",
     "static/css/main.fc5d5ffa.chunk.css",
-    "static/js/main.4e4c344f.chunk.js"
+    "static/js/main.6cc43ddf.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paginated-movie-app-movisualize/precache-manifest.a535cee4f3679b4c62591d27c4f43c7e.js"
+  "/paginated-movie-app-movisualize/precache-manifest.77eab5f9bd7549f7265c2ab73e93413b.js"
 );
 
 self.addEventListener('message', (event) => {
